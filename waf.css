@@ -1,0 +1,100 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(217, 217, 217);
+}
+
+.ijoatas {
+    background-color: #0D7C66;
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 232px;
+  }
+
+.ijoatas h1 {
+  font-size: 20px;
+  margin-top: 65px;
+  margin-left: -35%;
+}
+
+  .putihbawah {
+    background-color: #E5E1DA;
+    width: 100%;
+    height: 860px;
+    
+  }
+  
+  .button-div {
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  button {
+    border-radius: 40%;
+  }
+  
+  .isi {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    background-color: #F1F2FF;
+    width: 800px;
+    height: 890px;
+    margin-left: 345px;
+    margin-right: 345px;
+    margin-top: 140px;
+    box-shadow: 30%;
+  }
+  
+  .logo {
+    margin-left: -50%;
+    width: 50px;
+    position: absolute;
+    top: 50px;
+    
+  }
+  h1 {
+    color: white;
+    font-size: 60px;
+    margin-left: 80px;
+    margin-top: 20px;
+  }
+  button {
+    background-color: #0D7C66;
+    width: 150px;
+    height: 90px;
+    text-align: center;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    
+  }
+  
+  .isi h2 {
+    padding: 20px;
+    color: gray;
+    font-size: 50px;
+  }
+
+  .isi ol {
+    font-size: 30px;
+  }
+
+  .isi li {
+    margin-bottom: 25px;
+  }
+  
+  .divscan {
+    justify-content: center;
+    display: flex;
+    padding-top: 40px;
+  }
+  li {
+    padding-top: 3px
+  }
